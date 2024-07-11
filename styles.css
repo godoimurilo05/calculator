@@ -33,6 +33,9 @@ body {
     width: 100%;
     height: 10rem;
     background-color: rgb(255, 255, 255);
+    text-align:right;
+    font-size: 2rem;
+    padding-right: .7rem;
 }
 
 .calculator__container__buttons {
